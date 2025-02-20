@@ -24,6 +24,11 @@ Measure efficiency in Healthcare, quickly check the dataset content, get started
   - apr_severity_of_illness_description
   - apr_risk_of_mortality
  
+## Insights to Explore
+  * Which Hospitals stand out with highest cost and LOS relative to the state average?
+  * Which Hospitals stand out as biggest outliers overall?
+  * Does larger surgical program size impact LOS and COST?
+ 
  ## :brain: **Calculating special measures or columns using DAX** 
 
 ```
