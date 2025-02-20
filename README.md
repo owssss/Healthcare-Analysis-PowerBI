@@ -48,3 +48,13 @@ VAR vAVG = [Average LOS Days]
 VAR vAvgALL = CALCULATE([Average LOS DAYS],ALL())
 RETURN
   (vAVG-vAvgALL)/vAVGALL
+```
+## :chart_with_upwards_trend: DASHBOARD :bar_chart:
+> **In this report page, I created page navigators to make this dashboard as user-friendly as possible.**   
+![homepage](https://github.com/user-attachments/assets/d390051f-fda8-4086-8b8a-0e31f5fea1cc)
+> Here, we can find basic KPIs but more important is the Key influencers, this visual is an AI driven tool that identifies the most significant factors influencing the selected outcome.   
+![LosComparison](https://github.com/user-attachments/assets/8093247b-884c-470e-8436-a6f57aa1aaeb)
+> Now, in this report page we can still see same visuals but I also incorporate the use of scatter chart. This helps the client understand the relationship between the Average Cost and the Average length of stay.
+![Costcomparison](https://github.com/user-attachments/assets/492ea14a-b094-46af-9e24-4c9e75f36a02)
+> In this final report is the Health service profile, how well or bad they do in terms of LOS, COST, severity of sickness and their mortality rate.
+![Hospitalprofile](https://github.com/user-attachments/assets/0c9a3b92-5782-4dbd-b7f8-b2c3487c0908)
