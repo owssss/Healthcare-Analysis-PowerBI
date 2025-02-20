@@ -1,4 +1,4 @@
-# CASE Study: Analysing HealthCare in Power BI
+# :briefcase: CASE Study: Analysing HealthCare in Power BI :hammer_and_wrench:
 **Performance, Benchmarks, and Dashboard**
 
 ### Description:
