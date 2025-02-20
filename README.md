@@ -24,10 +24,14 @@ Measure efficiency in Healthcare, quickly check the dataset content, get started
   - apr_severity_of_illness_description
   - apr_risk_of_mortality
  
-## Insights to Explore
+##  :mag_right: Insights to Explore
   * Which Hospitals stand out with highest cost and LOS relative to the state average?
   * Which Hospitals stand out as biggest outliers overall?
   * Does larger surgical program size impact LOS and COST?
+
+To answer these questions we will dive deeper into the dataset. Ask basic questions first  
+What are the Total Discharges, and we can work from there. Total discharge per hospital, the total and average Length of Stay per Hospital  
+Compare these hospitals and their total or average costs
  
  ## :brain: **Calculating special measures or columns using DAX** 
 
@@ -63,3 +67,9 @@ RETURN
 ![Costcomparison](https://github.com/user-attachments/assets/492ea14a-b094-46af-9e24-4c9e75f36a02)
 > In this final report is the Health service profile, how well or bad they do in terms of LOS, COST, severity of sickness and their mortality rate.
 ![Hospitalprofile](https://github.com/user-attachments/assets/0c9a3b92-5782-4dbd-b7f8-b2c3487c0908)
+
+
+## :bulb: CONCLUSION
+By connecting the data model in Power BI, I transformed raw data into actionable insights and leveraged exploratory analytics.   
+I applied my DAX skills to create essential measures and built complex tables, which enabled me to identify key hospital performance outliers and understand the factors influencing patient length of stay and cost.  
+I then developed a dashboard using the client's preferred color palette, ensuring a user-friendly, cohesive, and data-driven solution. This case study not only sharpened my technical skills but also deepened my understanding of the healthcare industry.
